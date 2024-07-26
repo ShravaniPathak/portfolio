@@ -44,7 +44,8 @@ body {
 
 /* About Section */
 #about {
-    padding: 50px;
+    padding: 30px;
+    padding-top: 0px;
     text-align: center;
     /*background-color: #f4f4f4;*/
     transition: background-color 0.3s ease-in-out;
@@ -265,7 +266,6 @@ body {
 #footer {
     text-align: center;
     padding: 20px 0;
-    position: fixed;
     bottom: 0;
     width: 100%;
     display: flex; 
